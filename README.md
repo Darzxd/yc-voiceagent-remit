@@ -28,10 +28,12 @@ The sender's leg is a Stripe ACH debit (*"Chase checking ending in 4521"* in the
 ## 2. Demo video 
 
 **https://drive.google.com/file/d/1nvENvf5pfr4ehwOc8j1bboyk-EyfaKmH/view?usp=sharing**
+<img width="1206" height="2622" alt="IMG_1645" src="https://github.com/user-attachments/assets/a8d9f715-561b-4cb8-8ec1-4e86ebb2ac77" />
 
 ---
 
-## 3. How we used Cekura, Nemotron, and Pipecat
+## 3. How we used Cekura, Nemotron, and Pipe<img width="1206" height="2622" alt="IMG_1645" src="https://github.com/user-attachments/assets/4d739cc6-66a0-4c44-b5f5-e99bdc8171ee" />
+cat
 
 ### 🧪 Cekura — the evaluation + auto-improvement loop (the centerpiece)
 
