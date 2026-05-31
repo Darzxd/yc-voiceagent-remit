@@ -25,7 +25,7 @@ The sender's leg is a Stripe ACH debit (*"Chase checking ending in 4521"* in the
 
 ---
 
-## 2. Demo video (< 60s)
+## 2. Demo video 
 
 **https://drive.google.com/file/d/1nvENvf5pfr4ehwOc8j1bboyk-EyfaKmH/view?usp=sharing**
 
